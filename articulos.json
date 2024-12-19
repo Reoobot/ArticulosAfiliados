@@ -1,0 +1,44 @@
+[
+    {
+      "category": "Artículos Cristianas",
+      "products": [
+        {
+          "id": 1,
+          "title": "Llavero Creativo Cristianos Para Hombres Mujeres",
+          "description": "Perfecto con llaves, bolsa, accesorios para automóviles, maletas, bolsos, bolsas de bolso y otros artículos.",
+          "images": [
+            "articulo.jpg",
+            "articulo1.jpg",
+            "articulo2.jpg",
+            "articulo3.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN1"
+        },
+        {
+          "id": 2,
+          "title": "Estuche para Transporte de Biblia Elegante y Multifuncional,Rosa",
+          "description": "Hecho de tela cómoda, duradera y resistente al agua, puede proteger su libro de la Biblia durante mucho tiempo contra daños por suciedad, doblado, mojado, rayones, etc.",
+          "images": [
+            "articulo4.jpg",
+            "articulo5.jpg",
+            "articulo6.jpg",
+            "articulo7.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN2"
+        },
+        {
+          "id": 3,
+          "title": "90 tarjetas de oración con versículos de la Biblia de colores.",
+          "description": "Regalo para animar cristiano  basados en la fe – Regalos cristianos para hombres y mujeres",
+          "images": [
+           "articulo8.jpg",
+            "articulo9.jpg",
+            "articulo10.jpg",
+            "articulo11.jpg"
+          ],
+          "price_link": "https://www.amazon.com/dp/exampleISBN3"
+        }
+      ]
+    }
+  ]
+  
