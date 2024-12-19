@@ -1,0 +1,2 @@
+# ArticulosAfiliados
+Json static
